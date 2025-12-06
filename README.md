@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .VACATIONS one-word domains still available to buy.
 
-This dataset contains 4,783 .VACATIONS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,781 .VACATIONS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.VACATIONS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vacations-oneword-domains&utm_content=description.top) (4,784) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.VACATIONS one word do
 
 | Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.vacations        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.vacations        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.vacations      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.vacations  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.vacations      | available | 43       | 2%     | 5      |           |         |         |
