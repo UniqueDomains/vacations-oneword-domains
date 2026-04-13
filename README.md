@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .vacations one-word domains from U
 
 **Public extract:** 9,641 rows · **Live catalog:** 9,640 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/vacations`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.vacations     | available | $9.99     | $50.99        | 90             | 54     | 5      | name.com                                    |
+| alpha.vacations     | available | $9.99     | $50.99        | 90             | 53     | 5      | name.com                                    |
 | open.vacations      | resell    | —         | —             | 106            | 60     | 4      | Sav.com, LLC - 17                           |
 | free.vacations      | premium   | $1,000    | $1,000        | 88             | 59     | 4      | name.com                                    |
 | true.vacations      | available | $9.99     | $50.99        | 86             | 52     | 4      | name.com                                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
