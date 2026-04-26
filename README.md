@@ -1,22 +1,22 @@
-# Available .VACATIONS One-Word Domains (9,641)
+# Available .VACATIONS One-Word Domains (12,212)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C641%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C641%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C212%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .vacations one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .vacations one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,212 domains** on the canonical page below.
 
-**Public extract:** 9,641 rows · **Live catalog:** 9,641 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,212 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/vacations`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VACATIONS one-word do
 
 ### Files
 
-- `vacations.csv` — public CSV extract (9,641 rows)
-- `vacations.json` — public JSON extract (9,641 rows)
+- `vacations.csv` — public CSV extract (1,000 rows)
+- `vacations.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.vacations     | available | $9.99     | $50.99        | 90             | 53     | 5      | name.com                                    |
-| open.vacations      | resell    | —         | —             | 106            | 60     | 4      | Sav.com, LLC - 17                           |
-| ace.vacations       | premium   | $1,000    | $1,000        | 88             | 57     | 3      | name.com                                    |
-| true.vacations      | available | $9.99     | $50.99        | 86             | 52     | 4      | name.com                                    |
-| search.vacations    | resell    | —         | —             | 70             | 57     | 6      | Spaceship, Inc.                             |
-| free.vacations      | premium   | $1,000    | $1,000        | 88             | 57     | 4      | name.com                                    |
-| trade.vacations     | available | $49.98    | —             | 116            | 46     | 5      | namecheap                                   |
-| music.vacations     | resell    | —         | —             | 84             | 54     | 5      | GoDaddy Online Services Cayman Islands Ltd. |
-| live.vacations      | premium   | $250      | $250          | 108            | 54     | 4      | name.com                                    |
-| only.vacations      | available | $9.99     | $50.99        | 110            | 46     | 4      | name.com                                    |
-| shop.vacations      | resell    | —         | —             | 78             | 54     | 4      | Go France Domains, LLC                      |
-| business.vacations  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                   |
-| snap.vacations      | available | $9.99     | $50.99        | 90             | 46     | 4      | name.com                                    |
-| moon.vacations      | resell    | —         | —             | 78             | 52     | 4      | NameSilo, LLC                               |
-| art.vacations       | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                                   |
-| creator.vacations   | available | $9.99     | $50.99        | 70             | 45     | 7      | name.com                                    |
-| digital.vacations   | resell    | —         | —             | 100            | 49     | 7      | Spaceship, Inc.                             |
-| athletics.vacations | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                   |
-| pop.vacations       | available | $9.99     | $50.99        | 82             | 44     | 3      | name.com                                    |
-| share.vacations     | resell    | —         | —             | 72             | 49     | 5      | INWX GmbH                                   |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| Books.vacations       | available | $49.98    | —             | 52             | 49     | 5      | namecheap                                                 |
+| girls.vacations       | resell    | —         | —             | 83             | 23     | 5      | GoDaddy.com, LLC                                          |
+| jobs.vacations        | premium   | $1,000    | —             | 79             | 42     | 4      | name.com                                                  |
+| Ryan.vacations        | available | $49.98    | —             | 60             | 44     | 4      | namecheap                                                 |
+| children.vacations    | resell    | —         | —             | 68             | 21     | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
+| homes.vacations       | premium   | $123.75   | —             | 86             | 34     | 5      | name.com                                                  |
+| Tools.vacations       | available | $49.98    | —             | 56             | 40     | 5      | namecheap                                                 |
+| summertime.vacations  | resell    | —         | —             | 78             | 11     | 11     | GoDaddy.com, LLC                                          |
+| solutions.vacations   | premium   | $250      | —             | 56             | 31     | 9      | name.com                                                  |
+| prompts.vacations     | available | $9.99     | —             | 54             | 39     | 7      | name.com                                                  |
+| SanDiego.vacations    | premium   | $854      | $854          | 74             | 29     | 9      | namesilo                                                  |
+| stories.vacations     | available | $9.99     | —             | 58             | 36     | 7      | name.com                                                  |
+| photos.vacations      | premium   | $123.75   | —             | 54             | 28     | 6      | name.com                                                  |
+| aliens.vacations      | available | $9.99     | —             | 56             | 35     | 6      | name.com                                                  |
+| tips.vacations        | premium   | $123.75   | —             | 80             | 26     | 4      | name.com                                                  |
+| etc.vacations         | available | $9.99     | —             | 58             | 34     | 3      | name.com                                                  |
+| has.vacations         | premium   | $46.20    | $46.20        | 60             | 26     | 3      | namecheap                                                 |
+| Cats.vacations        | available | $49.98    | —             | 59             | 33     | 4      | namecheap                                                 |
+| destination.vacations | premium   | $250      | —             | 90             | 25     | 11     | name.com                                                  |
+| payments.vacations    | available | $9.99     | —             | 58             | 33     | 8      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,641-row public sample | 9,641 live domains                               |
+| 1,000-row public sample | 12,212 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
