@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vacations one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $22.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/vacations`  
 **Best for:** founders, investors, studios
 
@@ -68,8 +68,8 @@ print(df.head())
 | ladies.vacations   | available | $9.99     | —             | 80             | 17     | 6      | name.com         |
 | barup.vacations    | available | $9.99     | —             | 82             | 2      | 6      | name.com         |
 | forces.vacations   | available | $9.99     | —             | 82             | 12     | 6      | name.com         |
-| getup.vacations    | available | $9.99     | —             | 82             | 14     | 6      | name.com         |
-| popup.vacations    | available | $9.99     | —             | 84             | 29     | 6      | name.com         |
+| getup.vacations    | available | $9.99     | —             | 82             | 15     | 6      | name.com         |
+| popup.vacations    | available | $9.99     | —             | 84             | 28     | 6      | name.com         |
 | useit.vacations    | available | $9.99     | —             | 94             | 7      | 6      | name.com         |
 | gearup.vacations   | available | $9.99     | —             | 80             | 16     | 7      | name.com         |
 | playin.vacations   | available | $9.99     | —             | 80             | 10     | 7      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
