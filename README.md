@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .vacations one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,604 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $22.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $26.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vacations`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vacations`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VACATIONS one-word do
 
 ### Files
 
-- `vacations.csv` — public CSV extract (1,000 rows)
-- `vacations.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vacations.csv`, public CSV extract (1,000 rows)
+- `vacations.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.vacations     | available | $49.98    | —             | 80             | 5      | 5      | namecheap        |
-| ladies.vacations   | available | $9.99     | —             | 80             | 17     | 6      | name.com         |
-| barup.vacations    | available | $9.99     | —             | 82             | 2      | 6      | name.com         |
-| forces.vacations   | available | $9.99     | —             | 82             | 12     | 6      | name.com         |
-| getup.vacations    | available | $9.99     | —             | 82             | 15     | 6      | name.com         |
-| popup.vacations    | available | $9.99     | —             | 84             | 28     | 6      | name.com         |
-| useit.vacations    | available | $9.99     | —             | 94             | 7      | 6      | name.com         |
-| gearup.vacations   | available | $9.99     | —             | 80             | 16     | 7      | name.com         |
-| playin.vacations   | available | $9.99     | —             | 80             | 10     | 7      | name.com         |
-| hangon.vacations   | available | $9.99     | —             | 82             | 6      | 7      | name.com         |
-| getlife.vacations  | available | $9.99     | —             | 80             | 5      | 8      | name.com         |
-| messages.vacations | available | $9.99     | —             | 80             | 16     | 8      | name.com         |
-| presents.vacations | available | $9.99     | —             | 80             | 9      | 8      | name.com         |
-| Books.vacations    | available | $49.98    | —             | 52             | 49     | 5      | namecheap        |
-| coupons.vacations  | resell    | —         | —             | 52             | 24     | 7      | GoDaddy.com, LLC |
-| jobs.vacations     | premium   | $1,000    | —             | 79             | 42     | 4      | name.com         |
-| Ryan.vacations     | available | $49.98    | —             | 60             | 44     | 4      | namecheap        |
-| girls.vacations    | resell    | —         | —             | 83             | 23     | 5      | GoDaddy.com, LLC |
-| homes.vacations    | premium   | $123.75   | —             | 86             | 34     | 5      | name.com         |
-| Tools.vacations    | available | $49.98    | —             | 56             | 40     | 5      | namecheap        |
+| ana.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| bit.vacations      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| aid.vacations      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| spf.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| that.vacations     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| any.vacations      | premium   | $123.75   | —             | high           | medium | 3      | name.com         |
+| acre.vacations     | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| sandy.vacations    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| arm.vacations      | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo         |
+| avon.vacations     | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| health.vacations   | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| did.vacations      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| babe.vacations     | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| modern.vacations   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| dip.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
+| bare.vacations     | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| cosmetic.vacations | resell    | —         | —             | high           | low    | 8      | Dynadot Inc      |
+| don.vacations      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| beam.vacations     | available | $9.99     | —             | medium         | medium | 4      | name.com         |
+| dry.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .vacations domains. The TLD gives immediate travel relevance, but it is narrower than mainstream extensions, so the best choices are the words that stay clear and commercially usable without extra explanation. Examples like jewels.vacations, ladies.vacations, popup.vacations, and finals.vacations show the range: some read like travel offers or themes, while others feel harder to place. For founders, the key test is whether the name is memorable and usable for a real travel brand. For investors, the key test is whether the ask leaves room for resale despite a niche extension. Median ask is 22.18.
+This list of .vacations domain names spans 12,604 options, from playful two-word phrases like gettogether.vacations and coffeesyrup.vacations to simple, ownable terms like ladies.vacations and playon.vacations. Because the TLD is niche, most names carry a low upfront ask — a median near $26 — but renewal costs and demand vary by registrar, so compare pricing before committing. Founders scanning this set can shortlist a brandable, ownable-now name quickly, while investors can weigh spread and buyable-now pricing across a large pool of low-cost inventory.
 
-- One-word .vacations names with direct travel context
-- Median ask is 22.18 across 12,606 domains
-- Stronger picks pair clear words with travel relevance
-- Check renewal fit before valuing a niche TLD name
+- 12,604 .vacations domain names in this selection
+- Median ask near $26 — budget-friendly across the board
+- Playful, brandable phrases like gettogether.vacations, playon.vacations
+- Compare renewal costs before buying — pricing varies by registrar
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
