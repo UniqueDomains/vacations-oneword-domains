@@ -1,10 +1,10 @@
-# Available .VACATIONS One-Word Domains (12,604)
+# Available .VACATIONS One-Word Domains (12,607)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C604%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C607%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vacations one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,604 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,607 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $26.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,607 domains · **Median ask:** $24.83 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/vacations`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | ana.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
 | bit.vacations      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | aid.vacations      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
-| spf.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| clv.vacations      | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
 | that.vacations     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | any.vacations      | premium   | $123.75   | —             | high           | medium | 3      | name.com         |
-| acre.vacations     | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| cxv.vacations      | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
 | sandy.vacations    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | arm.vacations      | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo         |
-| avon.vacations     | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| spf.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
 | health.vacations   | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
 | did.vacations      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| babe.vacations     | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| xci.vacations      | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
 | modern.vacations   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 | dip.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
-| bare.vacations     | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| acre.vacations     | available | $9.99     | —             | medium         | low    | 4      | name.com         |
 | cosmetic.vacations | resell    | —         | —             | high           | low    | 8      | Dynadot Inc      |
 | don.vacations      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| beam.vacations     | available | $9.99     | —             | medium         | medium | 4      | name.com         |
+| aery.vacations     | available | $9.99     | $50.99        | low            | low    | 4      | name.com         |
 | dry.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,604 live domains                        |
+| 1,000-row public sample | 12,607 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
