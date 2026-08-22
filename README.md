@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vacations one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,134 domains · **Median ask:** $20.81 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/vacations`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| sorry.vacations    | available | $9.99     | $50.99        | high           | low    | 5      | name.com         |
+| content.vacations  | available | $9.99     | $50.99        | high           | low    | 7      | name.com         |
+| come.vacations     | available | $9.99     | —             | high           | low    | 4      | name.com         |
 | ana.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
 | bit.vacations      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | aid.vacations      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
@@ -81,9 +84,6 @@ print(df.head())
 | dip.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
 | acre.vacations     | available | $9.99     | —             | medium         | low    | 4      | name.com         |
 | cosmetic.vacations | resell    | —         | —             | high           | low    | 8      | Dynadot Inc      |
-| don.vacations      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| aery.vacations     | available | $9.99     | $50.99        | low            | low    | 4      | name.com         |
-| dry.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
