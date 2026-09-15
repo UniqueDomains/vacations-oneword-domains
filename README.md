@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vacations one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,123 domains · **Median ask:** $23.59 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/vacations`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| sorry.vacations  | available | $9.99     | $50.99        | high           | low    | 5      | name.com         |
-| come.vacations   | available | $9.99     | —             | high           | low    | 4      | name.com         |
-| clean.vacations  | available | $9.99     | —             | high           | low    | 5      | name.com         |
-| here.vacations   | available | —         | —             | high           | low    | 4      | —                |
-| ana.vacations    | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| bit.vacations    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| aid.vacations    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
-| clv.vacations    | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
-| that.vacations   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| any.vacations    | premium   | $123.75   | —             | high           | medium | 3      | name.com         |
-| cxv.vacations    | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
-| sandy.vacations  | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC |
-| arm.vacations    | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo         |
-| spf.vacations    | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| health.vacations | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| did.vacations    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| xci.vacations    | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
-| modern.vacations | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| dip.vacations    | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
-| acre.vacations   | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ana.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| bit.vacations      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| aid.vacations      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| clv.vacations      | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
+| that.vacations     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| any.vacations      | premium   | $123.75   | —             | high           | medium | 3      | name.com         |
+| cxv.vacations      | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
+| sandy.vacations    | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC |
+| arm.vacations      | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo         |
+| spf.vacations      | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| health.vacations   | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| did.vacations      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| xci.vacations      | available | $9.99     | $50.99        | low            | low    | 3      | name.com         |
+| modern.vacations   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| dip.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
+| acre.vacations     | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| cosmetic.vacations | resell    | —         | —             | high           | low    | 8      | Dynadot Inc      |
+| don.vacations      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| aery.vacations     | available | $9.99     | $50.99        | low            | low    | 4      | name.com         |
+| dry.vacations      | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
