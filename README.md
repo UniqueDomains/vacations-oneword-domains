@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vacations one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,801 domains · **Median ask:** $30.37 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/vacations`
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | sandy.vacations  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC  |
 | arm.vacations    | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo          |
 | fla.vacations    | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| modern.vacations | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC  |
+| sunset.vacations | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 45 |
 | awe.vacations    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | lxi.vacations    | available | $9.99     | $50.99        | medium         | low    | 3      | name.com          |
-| sunset.vacations | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 45 |
-| beg.vacations    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| bag.vacations    | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
 | lxv.vacations    | available | $9.99     | $50.99        | medium         | low    | 3      | name.com          |
-| btw.vacations    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| beg.vacations    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | rgb.vacations    | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| but.vacations    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
-| xci.vacations    | available | $9.99     | $50.99        | medium         | low    | 3      | name.com          |
+| btw.vacations    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| suv.vacations    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| bug.vacations    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
