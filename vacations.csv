@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-4a2248f9-3769-4ef7-bdd5-d1ceff5fd256,airline.vacations,premium,854,854,high,low,7,namesilo,,,
+4a2248f9-3769-4ef7-bdd5-d1ceff5fd256,airline.vacations,premium,1040,1040,high,low,7,namecheap,,,27/09/2026 06:59
 55535021-b82e-4397-8f3f-68ba75a98989,ebionite.vacations,available,9.99,50.99,medium,low,8,name.com,,,14/08/2026 23:04
 3e04502f-74da-4cde-845f-55dafecff531,bezel.vacations,available,40.98,49.98,medium,low,5,namecheap,,,23/09/2026 12:19
 cfe98fe3-bab8-45f3-abdb-9da6fef84187,overstatement.vacations,available,9.99,,medium,low,13,name.com,,,
@@ -63,6 +63,7 @@ b493e478-6c29-49f4-99b3-21d72964f529,mutter.vacations,available,38.99,38.99,high
 af07e9b1-7f91-488c-9fc6-3836ee721f9d,quelled.vacations,available,38.99,38.99,medium,low,7,namesilo,,,09/09/2026 08:24
 6140b02f-91c8-4b50-80a8-11498ee7de51,sumatran.vacations,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 01:31
 0607c898-6267-4ded-839e-da5e50e039b3,listened.vacations,available,40.98,49.98,medium,low,8,namecheap,,,25/09/2026 19:45
+88d00957-53e0-437d-9063-e0d19747a191,photographs.vacations,available,38.99,38.99,high,low,11,namesilo,,,27/09/2026 09:34
 ec27c15b-121d-4541-abe5-be0e2a54c1c0,leprous.vacations,available,9.99,50.99,medium,low,7,name.com,,,23/08/2026 00:12
 c93c2deb-b9f7-42f6-9266-c5740940a953,remembering.vacations,available,9.99,,high,low,11,name.com,,,
 89920101-8822-4c53-98a2-0db88f0eb8b7,disturbing.vacations,available,9.99,50.99,medium,low,10,name.com,,,14/08/2026 13:16
@@ -96,6 +97,7 @@ cd58e6ad-160b-4156-8d4e-5b465ee809e5,squirrel.vacations,available,9.99,,high,low
 f1d1499b-75ee-447d-a002-ae7a85c0eabe,winter.vacations,premium,854,854,high,low,6,namesilo,,,25/09/2026 11:04
 05ce3b6d-95f6-439e-9b7b-4bff28da7158,paused.vacations,available,38.99,38.99,medium,low,6,namesilo,,,18/09/2026 02:16
 2f9ed6ed-4e5a-43f9-9abd-e78e09872feb,area.vacations,available,9.99,,high,low,4,name.com,,,
+b8aaf640-23bd-4c51-9250-eafe034f9fc9,wiley.vacations,available,38.99,38.99,high,low,5,namesilo,,,27/09/2026 08:05
 8013d0b6-5eb9-4bd2-98b2-8cd0853fafed,speaker.vacations,available,9.99,,high,low,7,name.com,,,
 55caa673-a6b1-4af2-b493-754a73ae6c19,cleanup.vacations,available,9.99,50.99,high,low,7,name.com,,,12/08/2026 10:26
 eac813b4-2b16-46fd-bc56-39448fd24e0c,abdication.vacations,available,38.99,38.99,medium,low,10,namesilo,,,16/09/2026 14:43
@@ -108,7 +110,6 @@ c607a3b1-1661-4f64-afd6-ec01d8cefe23,frothy.vacations,available,9.99,50.99,high,
 cc16f570-cf41-4da8-b048-4707e8addc77,ground.vacations,available,38.99,38.99,high,low,6,namesilo,,,22/09/2026 17:38
 93c5351d-5f8e-4c6a-8d67-9d48cba6139f,urbane.vacations,available,9.99,50.99,high,low,6,name.com,,,11/09/2026 04:57
 c50a094c-556b-4f79-a438-4b1f94125685,gnarly.vacations,available,9.99,50.99,medium,low,6,name.com,,,20/08/2026 15:38
-420bc893-9f38-468f-87b3-34594ac91cb9,idea.vacations,available,,,high,high,4,,,,
 43b2be42-6976-411a-aeb1-87f2493cd0e6,nights.vacations,available,40.98,49.98,high,low,6,namecheap,,,17/09/2026 22:10
 1bddec9b-3934-4be1-9525-df07d987b1d9,rapturous.vacations,available,9.99,50.99,high,low,9,name.com,,,14/08/2026 23:48
 13eb7aa0-dde0-47af-8092-9729957630dc,abbe.vacations,available,38.99,38.99,medium,low,4,namesilo,,,16/09/2026 14:22
@@ -147,7 +148,7 @@ c85092fa-d0df-4613-9ff5-ef79ab4fb71e,poetically.vacations,available,40.98,49.98,
 06880ddb-e0b0-4cd7-a7d7-1610ddbb6655,reluctant.vacations,available,9.99,50.99,medium,low,9,name.com,,,24/08/2026 08:21
 a9f42ced-0f17-4fc1-aa09-53630d5e9945,chess.vacations,premium,242,242,high,medium,5,namesilo,,,24/09/2026 10:43
 2d22a608-7434-4db3-838a-a476783bcb3f,objectively.vacations,available,9.99,,high,low,11,name.com,,,
-2c50be4f-58ff-44b9-acdd-bb1efef63605,wear.vacations,available,9.99,,high,low,4,name.com,,,
+2c50be4f-58ff-44b9-acdd-bb1efef63605,wear.vacations,available,38.99,38.99,high,low,4,namesilo,,,27/09/2026 08:43
 bcadd0b1-5a53-4930-ae91-b29343c78cc1,acrosome.vacations,available,38.99,38.99,medium,low,8,namesilo,,,17/09/2026 03:58
 5e2d8c5f-b1cc-413d-ba10-109b9be2ad0a,embodied.vacations,available,9.99,50.99,high,low,8,name.com,,,16/08/2026 09:35
 d943e767-3eb2-41d3-b7ce-ddc82ee44470,resinlike.vacations,available,38.99,38.99,medium,low,9,namesilo,,,09/09/2026 15:11
@@ -220,11 +221,13 @@ e47fbb1e-d836-4985-90ba-eef26d94e0ee,shot.vacations,available,38.99,38.99,high,l
 db67be86-cc11-4824-a6d7-d331b5c23e04,blastocyst.vacations,available,40.98,49.98,medium,low,10,namecheap,,,24/09/2026 04:28
 c1a9c2d0-335c-43f7-a4f6-d506e80cf37b,auxesis.vacations,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 08:33
 498ff7db-899d-46ca-a84f-fa965c124aa7,vaned.vacations,available,38.99,38.99,medium,low,5,namesilo,,,13/09/2026 01:06
+6fcb174a-5770-4c62-84ae-57bc8c3cbab8,loses.vacations,available,38.99,38.99,medium,low,5,namesilo,,,27/09/2026 11:07
 32f0e739-3cb2-4e5e-a909-d5f3220727cb,arabian.vacations,available,9.99,50.99,high,low,7,name.com,,,06/08/2026 11:05
 dba9b966-340b-4818-8818-59c5c4d293e6,cake.vacations,available,40.98,49.98,high,low,4,namecheap,,,27/09/2026 02:19
 a74cfd31-08d5-4805-b896-3fe011921f83,oneiric.vacations,available,38.99,38.99,medium,low,7,namesilo,,,04/09/2026 15:12
 ec3c6e75-00ca-497f-bdc2-b2df3bfe78e9,trees.vacations,available,9.99,,high,low,5,name.com,,,
 a8bec548-8bb1-452e-b6d8-a65645c0af29,livid.vacations,available,9.99,50.99,medium,low,5,name.com,,,07/08/2026 02:24
+b475ca39-51d2-4fa3-b6f2-70897787dc41,confirm.vacations,available,38.99,38.99,high,low,7,namesilo,,,27/09/2026 05:57
 ff5ef5f1-605f-4c63-983e-8f375bd7a485,barkley.vacations,available,38.99,38.99,high,low,7,namesilo,,,18/09/2026 02:32
 a7458918-770d-4726-a964-c5b927193937,gravy.vacations,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 11:11
 c6d4bf26-b2d3-4678-acfe-f091b1b2b74a,manhattan.vacations,available,38.99,38.99,high,low,9,namesilo,,,25/09/2026 23:31
@@ -238,7 +241,7 @@ be5b35c5-2b65-409b-9fc7-bd6eb58e84e4,native.vacations,available,38.99,38.99,high
 08ee9ee2-c174-440b-bfa9-c4bdf06c30cd,company.vacations,premium,242,242,high,low,7,namesilo,,,25/09/2026 06:27
 0cf86336-8964-407f-a937-2722fbf6d088,decisive.vacations,available,9.99,50.99,high,low,8,name.com,,,13/08/2026 21:36
 1b6dc65f-348d-4d25-b577-843769403ebb,ballota.vacations,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 23:16
-055bdc1b-643a-41b3-9c5b-ba8a08c000e8,fix.vacations,premium,118.8,118.8,high,low,3,namesilo,,,
+055bdc1b-643a-41b3-9c5b-ba8a08c000e8,fix.vacations,premium,118.8,118.8,high,low,3,namesilo,,,27/09/2026 10:10
 d910cefa-bde0-45a4-bfc3-745eb4ea8489,seltzer.vacations,available,38.99,38.99,high,low,7,namesilo,,,24/09/2026 12:47
 52ce8d7b-1c8a-415f-917e-1d1768bdbf6b,penalties.vacations,available,9.99,,high,low,9,name.com,,,
 830020c8-78f0-4d57-aae1-8574b92e4c44,ohmic.vacations,available,38.99,38.99,medium,low,5,namesilo,,,04/09/2026 01:46
@@ -265,8 +268,9 @@ f4cea9cc-b64f-4936-9d3e-7b45fc2bc700,habitual.vacations,available,9.99,50.99,hig
 7ff8a91d-8cba-4357-8915-f83369be7e94,rests.vacations,available,38.99,38.99,medium,low,5,namesilo,,,18/09/2026 07:14
 a4d59675-3194-444e-b2ce-e5b3575d7d7d,watching.vacations,available,9.99,,high,low,8,name.com,,,
 3887d9ec-ce5b-469e-813a-541fed59587c,valley.vacations,available,9.99,,high,low,6,name.com,,,
+bec27964-4348-4c33-8d96-846da8d23892,taliban.vacations,available,38.99,38.99,high,low,7,namesilo,,,27/09/2026 05:35
 429fb697-4481-4c59-b354-cc083b3299f4,relapsing.vacations,available,38.99,38.99,medium,low,9,namesilo,,,09/09/2026 16:17
-df34f65d-306b-4b0d-9cf0-70e88cdbdc93,satisfied.vacations,available,9.99,,high,low,9,name.com,,,
+df34f65d-306b-4b0d-9cf0-70e88cdbdc93,satisfied.vacations,available,38.99,38.99,high,low,9,namesilo,,,27/09/2026 09:14
 8198eba8-ad0b-4440-8244-374ad6c7928b,gill.vacations,available,40.98,49.98,high,low,4,namecheap,,,24/09/2026 08:09
 4da501a2-0eae-44f3-8d9c-cbc21156bf02,abstemious.vacations,available,9.99,50.99,medium,low,10,name.com,,,
 4d1df39b-1d87-4eb2-9aa8-b5c95f4eee15,alkane.vacations,available,38.99,38.99,medium,low,6,namesilo,,,18/09/2026 08:24
@@ -399,6 +403,7 @@ d2797ccb-9565-4c98-b96b-1636336fb575,castellano.vacations,available,9.99,,medium
 a0035c8f-0275-4b59-9f22-9738315739b5,incognito.vacations,available,9.99,50.99,high,low,9,name.com,,,22/08/2026 01:36
 e57553e0-8cfc-4e9e-bbe2-6ff3fd3d9ba9,cxxv.vacations,available,9.99,50.99,medium,low,4,name.com,,,
 033affc7-1033-46aa-bbab-959cf34ec033,pommel.vacations,available,38.99,38.99,medium,low,6,namesilo,,,23/09/2026 13:53
+fc3188ec-9180-47c4-b969-3ac99c8da03f,harcourt.vacations,available,40.98,49.98,high,low,8,namecheap,,,27/09/2026 08:10
 58aeec85-ceef-486c-b992-f6454224dcd7,validated.vacations,available,38.99,38.99,high,low,9,namesilo,,,13/09/2026 00:59
 b3a69927-44a4-45ce-bb52-5766816be7fd,vagile.vacations,available,38.99,38.99,medium,low,6,namesilo,,,13/09/2026 00:47
 e9905474-ec06-4db5-8d8c-830af68b53e1,lxxxv.vacations,available,9.99,50.99,medium,low,5,name.com,,,
@@ -426,10 +431,10 @@ b5dfc1ee-c711-40c6-b785-130b2b80bf81,triploid.vacations,available,40.98,49.98,me
 3c93383c-6c42-4507-b2c8-d1feb983e894,bully.vacations,available,9.99,50.99,high,low,5,name.com,,,08/08/2026 12:15
 a1879fe6-2d7c-4ba2-806a-0571e8c68f03,brush.vacations,available,9.99,,high,low,5,name.com,,,
 c8b666ec-b197-482d-bae2-1df306cceb6f,bloodless.vacations,available,9.99,50.99,medium,low,9,name.com,,,07/08/2026 02:19
+f5210b79-7967-4c10-8faf-030a8e4e9c52,ellsworth.vacations,available,30.2,30.2,medium,low,9,cloudflare,,,27/09/2026 13:20
 924ca469-08ba-480e-8686-bf4a2cda561b,discordant.vacations,available,9.99,50.99,medium,low,10,name.com,,,14/08/2026 10:00
 dc1be009-268f-4e8f-a3b2-a07175c55774,clubby.vacations,available,9.99,50.99,medium,low,6,name.com,,,12/08/2026 11:19
 115696d3-08d8-4f18-9b9f-0403d183eb8a,modelling.vacations,available,9.99,,high,low,9,name.com,,,
-dbb4919e-fa60-46a1-9294-23f54a0b3d21,google.vacations,available,,,high,high,6,,,,
 390a7cca-0b96-4eb2-83d4-1f1531246dab,shrewdly.vacations,available,9.99,50.99,medium,low,8,name.com,,,13/09/2026 22:22
 ba26f825-f1f6-4578-bb48-365aead36aab,glary.vacations,available,9.99,50.99,medium,low,5,name.com,,,10/08/2026 13:49
 026b4b4c-7343-4ee6-8bac-b0d4c4221a5b,upscale.vacations,available,38.99,38.99,high,low,7,namesilo,,,12/09/2026 23:19
@@ -498,6 +503,7 @@ c72fe769-4ac9-406c-93ad-f57753aac78d,alienator.vacations,available,38.99,38.99,m
 dd8a9305-1708-4655-940e-a188cb1444ce,lumpy.vacations,available,9.99,50.99,medium,low,5,name.com,,,12/08/2026 07:46
 51d2a8d4-1dc5-45e9-9deb-9d8732531aec,motored.vacations,available,9.99,50.99,high,low,7,name.com,,,25/08/2026 08:30
 ea8ffd7f-c844-4461-8be6-698bb0c30db5,squashy.vacations,available,9.99,50.99,medium,low,7,name.com,,,10/08/2026 17:16
+bd088cc8-3b6e-48b6-9173-a408cb5f12d7,stream.vacations,available,38.99,38.99,high,medium,6,namesilo,,,27/09/2026 05:33
 e3129c08-9095-4833-9a34-c1060c783db8,minded.vacations,available,9.99,50.99,high,low,6,name.com,,,24/08/2026 23:35
 12893f77-1be2-419e-80bc-659a95c4c625,performs.vacations,available,9.99,,medium,low,8,name.com,,,
 7c2aa9d4-a453-40e7-b1d7-dd1faece5be5,copular.vacations,available,9.99,50.99,medium,low,7,name.com,,,13/08/2026 00:38
@@ -566,7 +572,7 @@ ab5fac7c-4c6d-42fd-bef4-83db412249f4,meanly.vacations,available,38.99,38.99,medi
 a36ea90c-1538-479c-a6ad-efce357dd496,abuse.vacations,available,38.99,38.99,high,low,5,namesilo,,,08/09/2026 12:39
 122d8280-f4e5-42ec-8c8f-17f2aa262c39,biotic.vacations,available,9.99,50.99,high,low,6,name.com,,,10/08/2026 03:14
 0897eb8a-8368-458a-b5b0-3c848eb69f1c,digestible.vacations,available,9.99,50.99,medium,low,10,name.com,,,14/08/2026 07:14
-15c59611-911b-4087-bfb4-26a7c2924d97,striking.vacations,available,9.99,,high,low,8,name.com,,,
+15c59611-911b-4087-bfb4-26a7c2924d97,striking.vacations,available,38.99,38.99,high,low,8,namesilo,,,27/09/2026 07:25
 b614c042-9b65-4b6c-99e5-50f666525252,unhappiness.vacations,available,9.99,,medium,low,11,name.com,,,
 ec4efb63-c680-4383-8a4e-49e2467463e4,proportion.vacations,available,9.99,,high,low,10,name.com,,,
 ab899c99-0bd5-496f-849e-7d5a71c803fa,shovels.vacations,available,9.99,50.99,medium,low,7,name.com,,,20/09/2026 10:22
@@ -584,9 +590,10 @@ f79352ec-f41f-4e65-b2ac-3bc8de068f18,doubter.vacations,available,9.99,50.99,medi
 d4dba9ff-51ea-415d-bf74-6c04f16dd65f,wonderfully.vacations,available,9.99,,high,low,11,name.com,,,
 bd70e6d0-fcdd-47a8-8c23-90018f282dd3,cathodic.vacations,available,9.99,50.99,high,low,8,name.com,,,11/08/2026 21:56
 7ccc5dfc-0f1b-4dd9-806a-41b982a45e72,cantabile.vacations,available,9.99,50.99,medium,low,9,name.com,,,11/08/2026 17:38
+75ccfad9-033f-4daf-b824-61f7bd747dfe,laurent.vacations,available,38.99,38.99,medium,low,7,namesilo,,,27/09/2026 09:55
 4d7dc8da-6a17-4f8e-865e-fae53b863c7a,tartness.vacations,available,38.99,38.99,medium,low,8,namesilo,,,17/09/2026 03:12
 7dd17133-68c5-4e67-985f-d97568ec5588,pluperfect.vacations,available,38.99,38.99,medium,low,10,namesilo,,,08/09/2026 22:00
-b728fe0c-d23f-4072-9d59-f9faa698d062,waiting.vacations,available,9.99,,high,low,7,name.com,,,
+b728fe0c-d23f-4072-9d59-f9faa698d062,waiting.vacations,available,38.99,38.99,high,low,7,namesilo,,,27/09/2026 10:28
 5d6c70d8-830f-4ad6-9d89-04485aa158be,bohrium.vacations,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 22:07
 dc966c8f-c960-4cda-a508-44bba691cd51,ponds.vacations,available,38.99,38.99,medium,low,5,namesilo,,,18/09/2026 22:37
 1fb79000-02f3-40a8-ab79-35a01ba8aca1,acorn.vacations,available,38.99,38.99,high,low,5,namesilo,,,17/09/2026 02:18
@@ -640,6 +647,7 @@ b577db85-98b5-4620-996a-5e9a7d2aa6a0,alabama.vacations,premium,242,242,high,low,
 1b8434cb-5b5c-40d1-af8b-a599b7e84523,astonished.vacations,available,40.98,49.98,high,low,10,namecheap,,,22/09/2026 03:35
 ed264c35-ba0e-4ef3-825b-1680ab2fcb14,abor.vacations,available,38.99,38.99,medium,low,4,namesilo,,,16/09/2026 16:36
 767d9cb4-33eb-42da-8c47-642cafbc6f98,subatomic.vacations,available,38.99,38.99,medium,low,9,namesilo,,,10/09/2026 23:38
+b1649d5f-32c8-4bf4-b551-46e32174627e,elsie.vacations,available,38.99,38.99,high,low,5,namesilo,,,27/09/2026 07:34
 77e76695-44c5-4baa-b80f-de34f6fedb26,antithesis.vacations,available,38.99,38.99,medium,low,10,namesilo,,,19/09/2026 15:11
 08c4383c-8714-4a8b-96ca-a5120c960da7,braun.vacations,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 02:19
 616c3f0e-c93a-4698-81be-af7bfb23ed08,revengeful.vacations,available,38.99,38.99,medium,low,10,namesilo,,,09/09/2026 16:00
@@ -651,9 +659,10 @@ d69afd9a-ba4b-4bc8-b150-df7fd136aa66,xii.vacations,premium,38.94,38.94,high,low,
 33da234b-fd2a-4bed-98d2-590e447ba12f,assigned.vacations,available,9.99,50.99,high,low,8,name.com,,,07/08/2026 06:35
 aa09c2c0-085b-4696-8f23-e0df3bac77c0,gyral.vacations,available,9.99,50.99,medium,low,5,name.com,,,20/08/2026 21:19
 010f1206-e5dc-4324-8d59-f95f8292e8d1,dire.vacations,available,9.99,50.99,medium,low,4,name.com,,,14/08/2026 08:44
-fdebc1fd-3f75-482d-ba46-88275f3df5f7,cook.vacations,available,9.99,,high,low,4,name.com,,,
+fdebc1fd-3f75-482d-ba46-88275f3df5f7,cook.vacations,available,38.99,38.99,high,low,4,namesilo,,,27/09/2026 10:07
 75731ad5-70e0-4171-9855-8e5eccf2e600,bristol.vacations,premium,118.8,118.8,high,low,7,namesilo,,,24/09/2026 10:36
 0a55ef0a-b419-4ffc-ade5-de26a0e52eec,bedclothes.vacations,available,38.99,38.99,high,low,10,namesilo,,,22/09/2026 22:48
+6d4467fa-bb4c-461c-a05d-8d5920f3ce90,warrior.vacations,available,38.99,38.99,high,low,7,namesilo,,,27/09/2026 05:52
 3a70d42c-9a76-48ef-9dd9-1e0cfd76d48e,arguably.vacations,available,40.98,49.98,medium,low,8,namecheap,,,13/09/2026 20:45
 418d19f5-c9e5-4223-93dc-bc103bc01cde,conceited.vacations,available,9.99,50.99,medium,low,9,name.com,,,12/08/2026 19:54
 9d404cfd-d58b-448c-b3d3-82e4f5c531aa,cleanly.vacations,available,9.99,50.99,high,low,7,name.com,,,12/08/2026 10:21
@@ -670,7 +679,7 @@ f1ea93b2-cb7f-4957-838a-b91ebcf81181,belongings.vacations,available,38.99,38.99,
 64550154-5fc6-4ef3-9880-712f3a56726e,admiral.vacations,available,38.99,38.99,high,low,7,namesilo,,,17/09/2026 08:46
 ebce0e38-a5f8-45c3-9eac-66f33838558d,indemnity.vacations,available,38.99,38.99,medium,low,9,namesilo,,,18/09/2026 18:43
 f4e2868f-5741-49c0-8941-a4c54d88cadc,sumbody.vacations,available,9.99,,low,low,7,name.com,,,
-8a4ce528-16a1-4d63-b683-b6eee307a8c1,primary.vacations,available,9.99,,high,low,7,name.com,,,
+8a4ce528-16a1-4d63-b683-b6eee307a8c1,primary.vacations,available,38.99,38.99,high,low,7,namesilo,,,27/09/2026 05:41
 9c729f8a-fd5c-4b51-98a4-6da4f617a311,lund.vacations,available,40.98,49.98,high,low,4,namecheap,,,25/09/2026 09:11
 ab6f8bf8-b2d9-4636-b5f1-0f59003a5f66,tinkly.vacations,available,38.99,38.99,medium,low,6,namesilo,,,11/09/2026 16:15
 c46b26ee-dc9c-4e67-8710-e6c1cc5f336d,ebullient.vacations,available,9.99,50.99,high,low,9,name.com,,,14/08/2026 23:20
@@ -684,6 +693,7 @@ e904696d-26c9-4a9e-b72a-cc872636c48a,biodefence.vacations,available,40.98,49.98,
 4863ce5e-8a78-43f9-bcea-98eaace9f1e9,supervisor.vacations,available,9.99,,high,low,10,name.com,,,
 94efafcb-536d-4f9c-bf69-8ba7315ac1b8,asinine.vacations,available,9.99,50.99,low,low,7,name.com,,,07/08/2026 02:35
 b7d13ad5-c9e2-446b-b76f-dc971bc33fb4,anointing.vacations,available,40.98,49.98,high,low,9,namecheap,,,19/09/2026 11:19
+6a252745-2ac4-42a9-82d6-d6379597dad5,emile.vacations,available,31.25,31.25,high,low,5,spaceship,,,27/09/2026 13:23
 82b6a1ce-a885-4aeb-a481-58bc9d13dc2a,adler.vacations,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 13:44
 b8b16324-0725-4b78-b4d1-cdf85cd3bf77,stable.vacations,available,9.99,,high,low,6,name.com,,,
 14a99842-b432-4a93-b225-fb8768bfe789,chin.vacations,available,9.99,,high,low,4,name.com,,,
@@ -729,6 +739,7 @@ e78e4b57-7cd3-47b7-936e-a23c4e49d1ab,chalkboards.vacations,available,38.99,38.99
 bc83646b-08dc-4c66-b05a-d50dff3e3113,expertly.vacations,available,38.99,38.99,high,low,8,namesilo,,,14/09/2026 17:05
 83454e58-2818-4903-b466-703689368913,adherence.vacations,available,38.99,38.99,high,low,9,namesilo,,,17/09/2026 07:58
 b5996dff-2635-49fe-9120-2dded362b876,wriggling.vacations,available,38.99,38.99,high,low,9,namesilo,,,13/09/2026 13:41
+c973cdd8-baeb-435c-9bcc-ba38ca592cd9,clarence.vacations,available,30.2,30.2,high,low,8,cloudflare,,,27/09/2026 12:32
 628ec017-d724-4eb1-9ab3-38c21748c0f6,fired.vacations,available,38.99,38.99,medium,low,5,namesilo,,,24/09/2026 11:05
 5ebc951d-c041-42de-b712-5389b18699c6,proceeded.vacations,available,38.99,38.99,medium,low,9,namesilo,,,18/09/2026 01:36
 ad2e7139-3fbb-4b1c-8992-e9cdaffdc5b7,rigorous.vacations,available,9.99,,high,low,8,name.com,,,
@@ -760,6 +771,7 @@ b0bad161-10fb-4168-9d5e-7383789826cb,satan.vacations,available,9.99,,high,low,5,
 5f942fca-1505-4fd1-b9be-4b50caf2ff3d,bicuspid.vacations,available,9.99,50.99,high,low,8,name.com,,,09/08/2026 19:44
 dfb1fd9f-a6b9-47b1-82b4-6ce14b8e57cd,changeless.vacations,available,9.99,50.99,medium,low,10,name.com,,,12/08/2026 01:58
 0abc6451-e457-41ca-820e-5c0df3d3e32e,partizan.vacations,available,38.99,38.99,high,low,8,namesilo,,,08/09/2026 02:09
+f1d54bba-c085-468f-a8fb-18ea0ed0d33b,heels.vacations,available,38.99,38.99,high,low,5,namesilo,,,27/09/2026 10:19
 88ab1310-cf7b-4d67-a5ba-d204c56acc54,bellini.vacations,available,40.98,49.98,high,low,7,namecheap,,,23/09/2026 06:15
 32bf3d52-3479-4f37-9f87-4556e871eb32,nimitz.vacations,available,38.99,38.99,medium,low,6,namesilo,,,17/09/2026 08:52
 c9bb1f4b-f6b4-46fe-93f9-2b9d6ccee860,camp.vacations,premium,242,242,high,low,4,namesilo,,,11/08/2026 15:47
@@ -788,6 +800,7 @@ c6181a6f-c5e4-41f5-8401-50611d86fe1e,belatedly.vacations,available,9.99,50.99,me
 8c4bd0f3-606f-4aa2-9b23-f178e73b0ec7,diligent.vacations,available,38.99,38.99,high,low,8,namesilo,,,24/09/2026 08:25
 5ee4be0f-b680-4e3d-8040-bad018aade1f,ossicular.vacations,available,40.98,49.98,medium,low,9,namecheap,,,04/09/2026 18:22
 ecceffd8-3680-4595-9c3e-128a75befb4c,cloaked.vacations,available,9.99,50.99,high,low,7,name.com,,,12/08/2026 11:28
+f19bd7e3-38f7-4073-bc28-9a44ac61da2e,preparing.vacations,available,38.99,38.99,high,low,9,namesilo,,,27/09/2026 06:40
 c89083a3-2bb0-4ff3-be62-ed5166748977,unnatural.vacations,available,,,medium,low,9,,,,
 65797cb9-df4a-4a64-aede-f21c1f6c60d6,charitable.vacations,available,9.99,50.99,high,low,10,name.com,,,12/08/2026 02:34
 d3964640-015d-4965-a320-053ad622e381,recaptured.vacations,available,40.98,49.98,medium,low,10,namecheap,,,18/09/2026 19:20
@@ -803,7 +816,7 @@ f032db87-0bb1-4c05-b65c-f17580f4e9ae,cannon.vacations,available,38.99,38.99,high
 211357f2-035e-40c7-8245-40b567bdefc6,albers.vacations,available,40.98,49.98,high,low,6,namecheap,,,18/09/2026 02:34
 d087e97a-acd1-4d7f-a619-e02d1210a179,agnatic.vacations,available,9.99,50.99,medium,low,7,name.com,,,
 68ddd334-4d3c-4633-90a7-7d19e20a2a56,executive.vacations,available,38.99,38.99,high,low,9,namesilo,,,19/09/2026 08:02
-404eea98-ee4e-407e-97ab-1efef6da18a6,exhibit.vacations,available,9.99,,high,low,7,name.com,,,
+404eea98-ee4e-407e-97ab-1efef6da18a6,exhibit.vacations,available,38.99,38.99,high,low,7,namesilo,,,27/09/2026 05:10
 b3fb8bd4-b5d2-45a3-841b-7ab41a60c4ec,recondite.vacations,available,9.99,50.99,medium,low,9,name.com,,,
 00198a64-6868-49c4-b286-bc141279cfa8,tim.vacations,premium,118.8,118.8,high,medium,3,namesilo,,,25/09/2026 11:26
 bd9d3c78-ebb3-4f6f-bdb7-7ebfb10fb551,engaging.vacations,available,9.99,50.99,high,low,8,name.com,,,17/08/2026 07:36
@@ -986,16 +999,3 @@ aea87cc5-1fae-47c9-88d2-3b726447e94c,cager.vacations,available,38.99,38.99,mediu
 31dd4500-84d7-4181-b638-0155e92b1fe3,immoderate.vacations,available,9.99,50.99,medium,low,10,name.com,,,21/08/2026 21:07
 ace84f97-a8f9-4044-bb87-ae1ca5cfb970,atonia.vacations,available,38.99,38.99,medium,low,6,namesilo,,,19/09/2026 00:37
 e9dc051e-cc64-487b-b4ea-79fa3c0a2bae,dighted.vacations,available,9.99,50.99,low,low,7,name.com,,,14/08/2026 07:17
-ff828438-7f01-4311-8282-dd7625a8a1b1,rightfully.vacations,available,38.99,38.99,high,low,10,namesilo,,,15/09/2026 23:44
-afb1f8bf-4d96-49b4-b737-2614da37a1e6,unilateral.vacations,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 12:59
-43860006-c9d4-446c-8d57-383d79b3a26f,request.vacations,available,9.99,,high,low,7,name.com,,,
-4434fd31-0960-4a02-9075-cee0cc0af374,watermelon.vacations,available,9.99,,high,low,10,name.com,,,
-01bb33ad-92c8-41ae-9aa9-f96fd0d745b6,labour.vacations,available,9.99,,high,low,6,name.com,,,
-74e47dcf-8d2a-4bf7-9b47-94d042416b43,weston.vacations,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 05:16
-cb93a832-5b35-4a9d-b8b2-4a62f3d863db,ramsay.vacations,available,38.99,38.99,high,low,6,namesilo,,,25/09/2026 15:54
-72bc05dd-7a3a-49cf-a97d-1bbfdc0ecbe2,grating.vacations,available,9.99,50.99,high,low,7,name.com,,,20/08/2026 18:26
-dbae9348-ccb5-4244-b0db-435e24688dc6,parametric.vacations,available,38.99,38.99,high,low,10,namesilo,,,08/09/2026 01:01
-5fca992d-43f9-4e52-b804-def1f0092339,arkansan.vacations,available,40.98,49.98,medium,low,8,namecheap,,,20/09/2026 06:11
-ff8421b1-cfec-43d9-bcb4-b8deeaa0e4a6,tamed.vacations,available,38.99,38.99,high,low,5,namesilo,,,11/09/2026 07:46
-08ee540d-b8ba-4641-b393-6a1a6099debc,atop.vacations,available,9.99,,medium,low,4,name.com,,,
-98389ca0-a659-40ae-8809-620fb7eacc52,clubbish.vacations,available,9.99,50.99,low,low,8,name.com,,,12/08/2026 12:59
