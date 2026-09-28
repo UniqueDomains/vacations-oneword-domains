@@ -1,10 +1,10 @@
-# Available .VACATIONS One-Word Domains (23,628)
+# Available .VACATIONS One-Word Domains (24,254)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C628%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C254%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vacations one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,628 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,254 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,628 domains · **Median ask:** $36.44 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 24,254 domains · **Median ask:** $36.94 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/vacations`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| afp.vacations        | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
-| agent.vacations      | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| abe.vacations        | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap                                                 |
-| ail.vacations        | available | $40.98    | $49.98        | high           | low    | 3      | namecheap                                                 |
-| autonomous.vacations | resell    | —         | —             | high           | medium | 10     | Dynadot Inc                                               |
-| alb.vacations        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| chu.vacations        | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo                                                  |
-| bad.vacations        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
-| ely.vacations        | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
-| den.vacations        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
-| mgm.vacations        | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
-| dew.vacations        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
-| nne.vacations        | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
-| dog.vacations        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
-| plz.vacations        | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| fix.vacations        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| sot.vacations        | available | $9.99     | $50.99        | medium         | low    | 3      | name.com                                                  |
-| ire.vacations        | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                                  |
-| yid.vacations        | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo                                                  |
-| nor.vacations        | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap                                                 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| afp.vacations   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| agent.vacations | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| abe.vacations   | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap                                                 |
+| ail.vacations   | available | $40.98    | $49.98        | medium         | low    | 3      | namecheap                                                 |
+| alb.vacations   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| chu.vacations   | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo                                                  |
+| bad.vacations   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| ely.vacations   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| den.vacations   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| jen.vacations   | available | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| dew.vacations   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| mgm.vacations   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| dog.vacations   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| nne.vacations   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                                  |
+| fix.vacations   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| pak.vacations   | available | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| ire.vacations   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                                  |
+| plz.vacations   | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| nor.vacations   | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap                                                 |
+| sot.vacations   | available | $9.99     | $50.99        | medium         | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,628 live domains                        |
+| 1,000-row public sample | 24,254 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VACATIONS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
